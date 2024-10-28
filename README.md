@@ -1,6 +1,6 @@
 # Commedia Video Player
 
-This repo is for tracking users issues and feature requests.
+This repo is for tracking users [issues](https://github.com/commedia-player/Commedia/issues) and [feature requests](https://github.com/commedia-player/Commedia/issues).
 
 Some usefull links to get you up to speed:
 
